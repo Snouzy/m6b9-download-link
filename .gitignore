@@ -156,3 +156,6 @@ Temporary Items
 *.code-workspace
 151.101.0.133
 .vscode/settings.json
+
+# outputs
+outputs/
